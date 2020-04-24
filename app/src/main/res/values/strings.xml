@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Wei0423</string>
-    <string name="strname">姓名:</string>
-    <string name="strheight">身高:</string>
+    <string name="strname">name:</string>
+    <string name="strheight">height:</string>
+    <string name="strweight">weight:</string>
+    <string name="strsumbit">sumbit</string>
+    <string name="strnext">next</string>
 </resources>
