@@ -2,4 +2,5 @@
     <string name="app_name">Wei0423</string>
     <string name="strname">姓名:</string>
     <string name="strheight">身高:</string>
+    <string name="aaaa">您的\'BMI\'是</string>
 </resources>

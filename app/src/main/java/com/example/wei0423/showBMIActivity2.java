@@ -48,6 +48,6 @@ public class showBMIActivity2 extends AppCompatActivity {
         }
      Toast.makeText(this,rem, Toast.LENGTH_LONG).show();
         show_name.setText(name);
-        g.setText("您的'BMI'是"+bmi);
+        g.setText(getString(R.string.aaaa)+bmi);
     }
 }
